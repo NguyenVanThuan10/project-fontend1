@@ -1,0 +1,19 @@
+img{
+    width: 327px;
+    border : 3px solid violet;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20pt;
+}
+a:hover{
+    color:chocolate;
+} /*định dạng lúc rà chuột*/
+p{
+   text-align: justify;
+    font-size: 13pt;
+}
+article{
+    width: 330px;
+}
